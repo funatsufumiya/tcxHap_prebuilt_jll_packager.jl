@@ -1,0 +1,10 @@
+# This file is machine-generated - editing it directly is not advised
+
+julia_version = "1.12.6"
+manifest_format = "2.0"
+project_hash = "d9e3b516bee378f45c1708742d0231741e7ba42b"
+
+[[deps.tcxHap_prebuilt_jll_packager]]
+path = "."
+uuid = "def43aba-a57e-41c8-8711-09d1cf24fd90"
+version = "0.1.0"

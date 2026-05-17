@@ -1,0 +1,4 @@
+name = "tcxHap_prebuilt_jll_packager"
+uuid = "def43aba-a57e-41c8-8711-09d1cf24fd90"
+version = "0.1.0"
+authors = ["Fumiya Funatsu <funatsu.fumiya@gmail.com>"]
