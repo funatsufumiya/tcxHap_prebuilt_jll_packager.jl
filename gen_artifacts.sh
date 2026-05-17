@@ -1,10 +1,10 @@
 #!/bin/bash
 
 cd `dirname $0`
-NAME="tcxOsc_prebuilt_jll"
+NAME="tcxHap_prebuilt_jll"
 VERSION=$(git describe --tags --abbrev=0)
 # GIT_SHA1=$(git rev-parse "$VERSION")
-URL=https://github.com/funatsufumiya/tcxOsc_prebuilt_jll_packager.jl/releases/download/$VERSION
+URL=https://github.com/funatsufumiya/tcxHap_prebuilt_jll_packager.jl/releases/download/$VERSION
 
 function gen(){
     OS=$1
