@@ -1,6 +1,6 @@
 #!/bin/bash
 
-LIB=libTcxOscJl
+LIB=libTcxHapJl
 
 function create_tar_gz() {
     target=$1
